@@ -116,7 +116,8 @@ class ScreenThree extends StatelessWidget {
                   type2: 'Sheltie',
                   gender: 'Female',
                   petTag: 'Guinea Pig',
-                  imageUrl: 'https://i.pravatar.cc/150?img=1',
+                  imageUrl: 'https://i.pravatar.cc/150?img=2',
+
                 ),
                 CustomerCard(
                   name: 'Carlitta Pusso',
